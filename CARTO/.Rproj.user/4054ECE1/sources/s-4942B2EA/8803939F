@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546598185957.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1260850088",
+    "id" : "8803939F",
+    "lastKnownWriteTime" : 1546598476,
+    "last_content_update" : -2147483648,
+    "path" : "C:/Users/Nelson/Desktop/CARTO/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "3,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

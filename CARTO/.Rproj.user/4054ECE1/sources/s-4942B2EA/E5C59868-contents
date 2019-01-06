@@ -1,0 +1,12 @@
+library(shiny)
+library(leaflet)
+library(dplyr)
+
+ui <- fluidPage(
+  print("Hello World!")
+)
+
+server <- function(input,output, session){
+}
+
+shinyApp(ui=ui, server=server)

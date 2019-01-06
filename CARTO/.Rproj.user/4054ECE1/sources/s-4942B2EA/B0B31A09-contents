@@ -1,0 +1,2 @@
+#pour ajouter la carte, nous créons une sortie 
+leafletOutput("mymap", height = 1000)

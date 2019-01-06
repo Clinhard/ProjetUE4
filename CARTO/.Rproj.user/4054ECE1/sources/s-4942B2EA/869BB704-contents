@@ -1,0 +1,11 @@
+# nous créons ici la fonction serveur qui sera appellé a à chaque fois 
+server <- function(input, output, session){
+  
+  
+  output$mymap <- renderLeaflet({
+    m <- leaflet() %>%
+      addTiles() %>%
+      setView(lng=-73.935242, lat=40.730610 , zoom=10)
+    m
+  })
+}
